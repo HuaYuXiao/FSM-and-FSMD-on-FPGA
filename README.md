@@ -18,7 +18,7 @@ Simulate the VHDL model.
 
 ### behavioral
 
-
+![无标题](https://user-images.githubusercontent.com/117464811/232944395-18c3a1b5-d7be-4930-864b-60d0e028ca4b.png)
 
 ### post synthesis
 
