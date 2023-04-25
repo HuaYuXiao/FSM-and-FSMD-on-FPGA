@@ -1,9 +1,7 @@
 # FSM-and-FSMD
 SUSTech EE332 Digital System Design
 
-Consider the state machine of a sequence recognition shown below. The state machine has one
-input besides the reset and clock signal. The input is a bit-serial input, feeding in a sequence of
-binary digits.
+Consider the state machine of a sequence recognition shown below. The state machine has 1 input besides the reset and clock signal. The input is a bit-serial input, feeding in a sequence of binary digits.
 
 ![image](https://user-images.githubusercontent.com/117464811/232429865-0a497d23-4535-4cb5-a6a9-6ff589f7ff31.png)
 
